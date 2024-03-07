@@ -1,0 +1,48 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\bin\Debug\net6.0-windows\Notas_color.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\bin\Debug\net6.0-windows\Notas_color.deps.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\bin\Debug\net6.0-windows\Notas_color.runtimeconfig.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\bin\Debug\net6.0-windows\Notas_color.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\bin\Debug\net6.0-windows\Notas_color.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.Form1.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.AssemblyInfo.cs
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\refint\Notas_color.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\Notas_color.genruntimeconfig.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Notas_color\obj\Debug\net6.0-windows\ref\Notas_color.dll
+D:\Notas_color\bin\Debug\net6.0-windows\Notas_color.exe
+D:\Notas_color\bin\Debug\net6.0-windows\Notas_color.deps.json
+D:\Notas_color\bin\Debug\net6.0-windows\Notas_color.runtimeconfig.json
+D:\Notas_color\bin\Debug\net6.0-windows\Notas_color.dll
+D:\Notas_color\bin\Debug\net6.0-windows\Notas_color.pdb
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.Form1.resources
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.csproj.GenerateResource.cache
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.AssemblyInfoInputs.cache
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.AssemblyInfo.cs
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.csproj.CoreCompileInputs.cache
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.dll
+D:\Notas_color\obj\Debug\net6.0-windows\refint\Notas_color.dll
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.pdb
+D:\Notas_color\obj\Debug\net6.0-windows\Notas_color.genruntimeconfig.cache
+D:\Notas_color\obj\Debug\net6.0-windows\ref\Notas_color.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\bin\Debug\net6.0-windows\Notas_color.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\bin\Debug\net6.0-windows\Notas_color.deps.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\bin\Debug\net6.0-windows\Notas_color.runtimeconfig.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\bin\Debug\net6.0-windows\Notas_color.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\bin\Debug\net6.0-windows\Notas_color.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.Form1.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.csproj.GenerateResource.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.AssemblyInfoInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.AssemblyInfo.cs
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.csproj.CoreCompileInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\refint\Notas_color.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\Notas_color.genruntimeconfig.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\notas ejercicio 6\obj\Debug\net6.0-windows\ref\Notas_color.dll
